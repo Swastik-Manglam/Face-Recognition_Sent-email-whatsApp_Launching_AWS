@@ -1,8 +1,8 @@
 def whatsapp_no():
-    return "+918228949020"
+    return "+91xxxxxxxxxx"
 def password():
-    return 'Swastik#123'
+    return 'xxxxxxxxxx'
 def receiver_email():
-    return '1809054@kiit.ac.in'
+    return 'xxxxxxx@gmail.com'
 def sender_email():
-    return 'mirror010image@gmail.com'
+    return 'xxxxxxx@gmail.com'
